@@ -1,0 +1,3 @@
+<div>
+  Properties Page
+</div>
